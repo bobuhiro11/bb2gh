@@ -1,6 +1,6 @@
 # bb2gh
 
-Repository migration tool from bitbucket to gihub.
+Repository Migration Tool from Bitbucket to Github.
 
 ## Usage
 
